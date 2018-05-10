@@ -16,6 +16,9 @@ set tabstop=4
 set shiftwidth=4
 set cursorline
 set ic
+set showcmd
+set hlsearch
+set incsearch
 
 " Plugins
 call plug#begin('~/.vim/plugged')
