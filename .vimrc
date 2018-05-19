@@ -25,6 +25,7 @@ call plug#begin('~/.vim/plugged')
 
 Plug 'tpope/vim-surround'
 Plug 'vim-syntastic/syntastic'
+Plug 'davidhalter/jedi-vim'
 
 call plug#end()
 
